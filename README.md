@@ -1,1 +1,3 @@
-# TSPACO
+# TSP using ACO 
+Autors: Mia Marte, Sofia Torres and Stephanie Saenz 
+In this assignment we will implementan evolutionary approach to solving the classical Traveling Salesman Problem (TSP) using Ant Colony Optimization(ACO) techniques in python. Our objective is to gain a comprehensive understanding of this project, including its formulation, complexity and various solutions. However, we learnt how to be resourceful in all the obstacles that we encountered. To conclude, such a great experience where we learned how to communicate with each other, work together as a team and most importantly learn together.
